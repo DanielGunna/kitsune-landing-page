@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kitsune-landing-page/static/css/main.9b42bed5.css",
+    "main.js": "/kitsune-landing-page/static/js/main.51b7caa3.js",
+    "static/js/453.7ee4257d.chunk.js": "/kitsune-landing-page/static/js/453.7ee4257d.chunk.js",
+    "static/media/asset1.png": "/kitsune-landing-page/static/media/asset1.4fbbfaa7e922b553a144.png",
+    "static/media/logo.png": "/kitsune-landing-page/static/media/logo.37e99cb28730200a23e7.png",
+    "index.html": "/kitsune-landing-page/index.html",
+    "main.9b42bed5.css.map": "/kitsune-landing-page/static/css/main.9b42bed5.css.map",
+    "main.51b7caa3.js.map": "/kitsune-landing-page/static/js/main.51b7caa3.js.map",
+    "453.7ee4257d.chunk.js.map": "/kitsune-landing-page/static/js/453.7ee4257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b42bed5.css",
+    "static/js/main.51b7caa3.js"
+  ]
+}
